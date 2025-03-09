@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Efren Jay Soriano**  
+# **Ej Soriano**  
 
 </div>
 
