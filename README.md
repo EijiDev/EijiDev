@@ -20,7 +20,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Visual_Studio_Icon_2019.svg" alt="VSCode" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="50" height="50"/>
 </p>
 
 </div>
