@@ -2,6 +2,8 @@
 
 # **Ej Soriano**  
 
+<p>I am a second-year IT student passionate about becoming a software engineer. I love building applications and continuously learning new technologies to enhance my skills. Here are the tech and tools I use on my journey! 🚀💻</p>
+
 </div>
 
 ---
