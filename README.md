@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @EijiDev
-- 👀 I’m interested in Online Games and Music.
-- 🌱 I’m currently learning HTML/CSS/JS.
-- 📫 How to reach me? Just DM Me in FB: EJ Solis
+<div align="center">
 
-<!---
-EijiDev/EijiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# **Efren Jay Soriano**  
+
+</div>
+
+---
+
+<div align="center">
+
+## **Technologies and Tools**  
+
+</div>
+
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="Php" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" 
+        height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS" width="50" 
+        height="50"/>
+</p>
+
+</div>
