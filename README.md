@@ -15,6 +15,7 @@
 ![Neon](https://img.shields.io/badge/neon-00E599.svg?style=for-the-badge&logo=neondatabase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Laravel](https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=json-web-token&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/nodemon-%2300FF00.svg?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Shadcn](https://img.shields.io/badge/shadcn-%23000000.svg?style=for-the-badge&logo=shadcn&logoColor=white)
